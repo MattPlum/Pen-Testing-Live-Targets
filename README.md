@@ -21,7 +21,7 @@ Vulnerability #1: SQL Injection
 
 Description:
 In the Salesperson page it gets each salesperson with an id number. Using the sql escape character you can perform sql injection on the database query.
-<img src="blue-vuln1.gif">
+<img src="https://github.com/MattPlum/Pen-Testing-Live-Targets/blob/0969dbe80990137e128199aab230a01e4f340388/blue1.gif">
 
 
 ## Green
