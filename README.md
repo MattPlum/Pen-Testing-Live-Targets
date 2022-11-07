@@ -31,6 +31,11 @@ Vulnerability #1: __________________
 Description:
 
 <img src="https://github.com/MattPlum/Pen-Testing-Live-Targets/blob/6f22c2f329186e468fa68ff2accfba8dfbb800a3/green1.gif">
+
+Vulnerability #2: __________________
+
+Description:
+
 <img src="https://github.com/MattPlum/Pen-Testing-Live-Targets/blob/b4e5c19f4a87b7a7cb05977f0e7d23b2ce746938/green2.gif">
 
 ## Red
@@ -41,6 +46,11 @@ Description:
 
 <img src="https://github.com/MattPlum/Pen-Testing-Live-Targets/blob/42759d65ae8f5025868025053eaf4725032cedab/red1.gif">
 
+Vulnerability #2: __________________
+
+Description:
+
+<img src="https://github.com/MattPlum/Pen-Testing-Live-Targets/blob/ee282eb8f2760d0f386aef458160b05092b55503/red2.gif">
 
 ## Notes
 
