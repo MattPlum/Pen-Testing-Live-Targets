@@ -17,10 +17,10 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection
 
 Description:
-
+In the Salesperson page it gets each salesperson with an id number. Using the sql escape character you can perform sql injection on the database query.
 <img src="blue-vuln1.gif">
 
 
